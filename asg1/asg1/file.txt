@@ -1,0 +1,8 @@
+
+			<div id="c1001" class="d-flex"> <!-- flex layout -->
+        <div class="flex-shrink-0"> <!-- disallow div to shrink when page gets smaller -->
+          
+        </div>
+        <div class="flex-grow-1"> <!-- allow div to grow and take up all space -->
+        </div>
+      </div><div class="d-flex" id="c1002"><div class="flex-shrink-0"><svg height="100" width="100"><circle cx="50" cy="50" r="40" fill="red"></circle></svg></div><div class="flex-grow-1"><h5>123@gmail.com</h5><p>hi</p><p1>system language:zh-HK</p1><br><p2>system platform:Win32</p2><br><p3>date:Sun Feb 21 2021 22:02:50 GMT+0800 (香港標準時間)</p3><br><p4>lat:22.3110716 lng:114.22715</p4></div></div><div class="d-flex" id="c1003"><div class="flex-shrink-0"><svg height="100" width="100"><circle cx="50" cy="50" r="40" fill="green"></circle></svg></div><div class="flex-grow-1"><h5>test@gmail.com</h5><p>123</p><p1>system language:zh-HK</p1><br><p2>system platform:Win32</p2><br><p3>date:Sun Feb 21 2021 22:05:21 GMT+0800 (香港標準時間)</p3><br><p4>lat:22.3110716 lng:114.22715</p4></div></div>
